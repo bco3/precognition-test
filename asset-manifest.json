@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/precognition-test/static/css/main.9d7a2352.css",
+    "main.js": "/precognition-test/static/js/main.1914057e.js",
+    "index.html": "/precognition-test/index.html",
+    "main.9d7a2352.css.map": "/precognition-test/static/css/main.9d7a2352.css.map",
+    "main.1914057e.js.map": "/precognition-test/static/js/main.1914057e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d7a2352.css",
+    "static/js/main.1914057e.js"
+  ]
+}
